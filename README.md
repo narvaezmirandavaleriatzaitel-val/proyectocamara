@@ -1,2 +1,0 @@
-# proyectocamara
-camara
